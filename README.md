@@ -1,7 +1,14 @@
-<h1>Hello my name is Isaías silva</h1>
+<h1>Hello my name is Isaías</h1>
 <hr>
 <h2>computer science student</h2>
-
+<ul>
+  <li>HTML </li>
+  <li>CSS </li>
+  <li>JAVASCRIPT </li>
+  <li>C </li>
+  <li>c++</li>
+  <li>JAVA </li>
+ </ul>
 
 <hr>
 
