@@ -2,8 +2,6 @@
 <hr>
 <h2>computer science student</h2>
 <ul>
-  <li>HTML </li>
- 
  </ul>
 
 <hr>
