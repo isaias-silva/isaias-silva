@@ -3,6 +3,7 @@
 <h2>🖥️ computer science student</h2>
 - 🤖 automação
 - ⌨️ fullstack developer
+- nerd
  <h2>skills</h2>
  <div style="display:flex">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px"/>
