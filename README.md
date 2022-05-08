@@ -1,8 +1,8 @@
-<h1>Hello my name is Isaías</h1>
+# Hello my name is Isaías
 
-<h2>🖥️ computer science student</h2>
--🤖 automação
--⌨️ fullstack developer
+## 🖥️ computer science student
+- 🤖 automação
+- ⌨️ fullstack developer
 
  <h2>skills</h2>
  <div style="display:flex">
