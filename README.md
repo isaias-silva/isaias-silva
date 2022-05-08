@@ -1,9 +1,9 @@
 <h1>Hello my name is Isaías</h1>
 
 <h2>🖥️ computer science student</h2>
-- 🤖 automação
-- ⌨️ fullstack developer
-- nerd
+-🤖 automação
+-⌨️ fullstack developer
+
  <h2>skills</h2>
  <div style="display:flex">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px"/>
