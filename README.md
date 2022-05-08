@@ -23,5 +23,8 @@
   <h2>contact</h2>
 <div style="display:flex">
   <a href="mailto:isaiasgarraeluta@gmail.com?" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/isa%C3%ADas-santos-b8b2181a3/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
