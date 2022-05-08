@@ -3,7 +3,10 @@
 ## 🖥️ computer science student
 - 🤖 automação
 - ⌨️ fullstack developer
-
+<div>
+  <a href="https://github.com/isaias-silva/">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaias-silva"/>
+</div>
  <h2>skills</h2>
  <div style="display:flex">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px"/>
