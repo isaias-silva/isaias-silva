@@ -5,7 +5,7 @@
 - ⌨️ fullstack developer
 <div>
   <a href="https://github.com/isaias-silva/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaias-silva"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaias-silva&icons=true"/>
 </div>
  <h2>skills</h2>
  <div style="display:flex">
