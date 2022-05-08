@@ -20,4 +20,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50px"/>
 
 </div>
+  
+<div style="display:flex">
+  <a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+</div>
 
