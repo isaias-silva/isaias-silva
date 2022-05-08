@@ -20,7 +20,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50px"/>
 
 </div>
-  
+  <h2>contact</h2>
 <div style="display:flex">
   <a href="mailto:isaiasgarraeluta@gmail.com?" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 </div>
