@@ -4,7 +4,9 @@
 - 🤖 automação
 - ⌨️ fullstack developer
 <div>
-  
+  <a href="https://github.com/isaias-silva/">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaias-silva&show_icons=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaias-silva&show_icons=true&theme=dark&layout=compact&langs_count=20"/>
 </div>
  <h2>skills</h2>
  <div style="display:flex">
