@@ -1,8 +1,8 @@
 # Hello my name is Isaías
 
 - 🖥️ estudante de ciência da computação
-- 🤖 automação
 - ⌨️ fullstack developer
+- apaixonado por <b style="color:green">Bioquímica</b>
 <div>
   <a href="https://github.com/isaias-silva/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaias-silva&show_icons=true&theme=dark"/>
