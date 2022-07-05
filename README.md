@@ -2,7 +2,7 @@
 
 - 🖥️ estudante de ciência da computação
 - ⌨️ fullstack developer
-- apaixonado por {c:green}Bioquímica{/c}
+- apaixonado por {c:green}Biologia.{/c}
 <div>
   <a href="https://github.com/isaias-silva/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaias-silva&show_icons=true&theme=dark"/>
