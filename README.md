@@ -1,6 +1,6 @@
 # Hello my name is Isaías
 
-## 🖥️ computer science student
+- 🖥️ estudante de ciência da computação
 - 🤖 automação
 - ⌨️ fullstack developer
 <div>
