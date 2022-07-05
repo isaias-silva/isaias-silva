@@ -3,7 +3,8 @@
 - 🖥️ estudante de ciência da computação
 - ⌨️ fullstack developer
 - 🌱apaixonado por biologia
-<div style=" border:1px solid red">
+
+<div>
   <a href="https://github.com/isaias-silva/">
    <img  src="https://github-readme-stats.vercel.app/api?username=isaias-silva&show_icons=true&theme=dark"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaias-silva&show_icons=true&theme=dark&layout=compact&langs_count=10"/>
