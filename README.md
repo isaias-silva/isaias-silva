@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/isaias-silva/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaias-silva&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaias-silva&show_icons=true&theme=dark&layout=compact&langs_count=10"/> </a>
+  <img src="https://github-readme-stats-beryl.vercel.app/api?username=isaias-silva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </a>
 </div>
  <h2>skills</h2>
  <div style="display:flex">
