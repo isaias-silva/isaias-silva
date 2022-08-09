@@ -10,7 +10,7 @@
       <img src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=isaias-silva&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=9">
   </a>
 </div>
- <h2>skills</h2>
+ <h2>⚙️skills</h2>
  <div style="display:flex">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
@@ -26,7 +26,7 @@
    
 
 </div>
-  <h2>contact</h2>
+  <h2>📲contact</h2>
 <div style="display:flex">
   <a href="mailto:isaiasgarraeluta@gmail.com?" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/isa%C3%ADas-santos-b8b2181a3/" target="_blank">
