@@ -39,7 +39,7 @@
 </div>
 <div>
 <a href="https://zackblack.vercel.app/" target="_blank">
-<h2> portifolio</h2>
+portifolio
 </a>
 
 </div>
