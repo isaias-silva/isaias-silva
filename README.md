@@ -1,8 +1,8 @@
 # Hello my name is Isaías
 
-- 🖥️ estudante de ciência da computação
+- 🖥️ computer science and web security student
 - ⌨️ fullstack developer
-- 🌱apaixonado por biologia
+- 🌱 in love with biology
 
 <div>
  
