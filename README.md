@@ -24,7 +24,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30px" />
-<img src="https://e7.pngegg.com/pngimages/307/948/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png" width="30px" />
+<img src="https://raw.githubusercontent.com/DaelonSuzuka/Godot-EditorControlSocket/master/addons/editor_control_socket/icon.png" width="30px" />
 
    
 
