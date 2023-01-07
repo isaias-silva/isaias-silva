@@ -24,7 +24,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60px" />
-<img src="https://raw.githubusercontent.com/DaelonSuzuka/Godot-EditorControlSocket/master/addons/editor_control_socket/icon.png" width="60px" />
+
 <img src="https://user-images.githubusercontent.com/56727311/173250758-705be50e-549f-4e77-abbd-be0574d8d649.png" width="60px" />
    
 
