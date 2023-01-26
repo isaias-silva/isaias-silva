@@ -22,7 +22,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40px" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px"/>
-<img src="https://plugins.jetbrains.com/files/13954/279571/icon/pluginIcon.png" width="40px"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/prolog-458170.png?w=256&f=avif" width="40px"/>
 </div>
 <div>
  <h2> frameworks frontend</h2>
