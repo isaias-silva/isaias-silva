@@ -5,7 +5,7 @@
 - 🌱 in love with biology
 
 <div>
-<img width="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-silva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-silva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
  
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=isaias-silva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact">
 
