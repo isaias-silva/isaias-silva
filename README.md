@@ -42,6 +42,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="60px" />
 
  </div>
+ <div>
+ <h2>game engines</h2>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="70px"/>
+
+</div>
 <div>
  <h2>database</h2>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60px"/>
