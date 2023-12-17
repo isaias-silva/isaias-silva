@@ -11,7 +11,8 @@
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=isaias-silva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </div>
 <div >
-  <h3>📲contact</h3>
+ 
+ ## 📲contact
  <br>
   <a href="mailto:isaiasgarraeluta@gmail.com?" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/isa%C3%ADas-santos-b8b2181a3/" target="_blank">
@@ -25,7 +26,8 @@
 </div>
 
  <div >
- <h3>⚙️ languages</h3>
+  
+  ## ⚙️ languages
   <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" />
@@ -40,7 +42,8 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/prolog-458170.png?w=256&f=avif" width="70px"/>
 </div>
 <div >
- <h3>🖥 frameworks frontend</h3>
+
+ ### 🖥 frameworks frontend
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px"/>
   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="70px" />
@@ -50,7 +53,9 @@
 
 </div>
 <div>
- <h3>🔋 frameworks backend</h3>
+
+ ### 🔋 frameworks backend
+
 <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="70px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70px" />
@@ -58,7 +63,9 @@
 
  </div>
  <div >
- <h3>🎲 database</h3>
+ 
+  ## 🎲 database
+
  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" />
@@ -66,7 +73,9 @@
 
  </div>
  <div >
-  <h3>tools</h3>
+ 
+  ## tools
+ 
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="70px" />
 <img src="https://images.ctfassets.net/o7xu9whrs0u9/6qR4PTwCTfgl0tjfrz0lpy/819fecae70412dacb9b960b98f5fae3b/RabbitMQ-LOGO.png" width="70px" />
@@ -74,7 +83,8 @@
 <img src="https://www.linuxnaweb.com/images/post/2018/logo-docker-compose.png" width="70px" />
  </div>
  <div >
- <h3> 🎮 game engines</h3>
+
+  ## 🎮 game engines
 <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="70px"/>
 
