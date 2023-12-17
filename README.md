@@ -1,16 +1,16 @@
-<div align="center">
+<div >
 <h1>Hello my name is Isaías</h1>
 
 <p> 🖥️ computer science and web security student</p>
  <p>⌨️ fullstack developer</p>
 <p> 🌱 in love with biology</p>
 </div>
-<div align="center" >
+<div  >
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-silva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=donut">
  
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=isaias-silva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </div>
-<div align="center">
+<div >
   <h3>📲contact</h3>
  <br>
   <a href="mailto:isaiasgarraeluta@gmail.com?" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
@@ -24,7 +24,7 @@
  </a>
 </div>
 
- <div align="center">
+ <div >
  <h3>⚙️ languages</h3>
   <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px"/>
@@ -39,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="70px"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/prolog-458170.png?w=256&f=avif" width="70px"/>
 </div>
-<div align="center">
+<div >
  <h3>🖥 frameworks frontend</h3>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px"/>
@@ -49,7 +49,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70px" />
 
 </div>
-<div align="center">
+<div>
  <h3>🔋 frameworks backend</h3>
 <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="70px" />
@@ -57,7 +57,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="70px" />
 
  </div>
- <div align="center">
+ <div >
  <h3>🎲 database</h3>
  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="70px"/>
@@ -65,7 +65,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70px"/>
 
  </div>
- <div align="center">
+ <div >
   <h3>tools</h3>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="70px" />
@@ -73,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70px" />
 <img src="https://www.linuxnaweb.com/images/post/2018/logo-docker-compose.png" width="70px" />
  </div>
- <div align="center">
+ <div >
  <h3> 🎮 game engines</h3>
 <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="70px"/>
