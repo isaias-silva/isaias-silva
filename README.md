@@ -1,9 +1,9 @@
 <div >
 <h1>Hello my name is Isaías</h1>
 
-<p> 🖥️ computer science and web security student</p>
+<p> 🖥️ computer science and web security</p>
  <p>⌨️ fullstack developer</p>
-<p> 🌱 in love with biology</p>
+<p> 🤖 in love automation</p>
 </div>
 <div  >
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-silva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=donut">
@@ -63,7 +63,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="70px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="70px" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="70px" />
+
  </div>
  <div >
  
