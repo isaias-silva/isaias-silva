@@ -1,10 +1,10 @@
 
 # 👋 Hello, I'm Isaías!
 
-🎓 Computer Scientist
-💻 Fullstack Developer  
-🤖 Automation lover  
-🌐 Visit my portfolio: [zackblack.vercel.app](https://zackblack.vercel.app)
+- 🎓 Computer Scientist
+- 💻 Fullstack Developer  
+- 🤖 Automation lover  
+- 🌐 Visit my portfolio: [zackblack.vercel.app](https://zackblack.vercel.app)
 
 ---
 
