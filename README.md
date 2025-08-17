@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Isaías!
 
-🎓 Computer Science enthusiast and Web Security passionate  
+🎓 Computer Scientist
 💻 Fullstack Developer  
 🤖 Automation lover  
 🌐 Visit my portfolio: [zackblack.vercel.app](https://zackblack.vercel.app)
