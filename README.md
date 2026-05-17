@@ -1,10 +1,9 @@
 
 # 👋 Hello, I'm Isaías!
-
+- 🇧🇷 Brazilian
 - 🎓 Computer Scientist
 - 💻 Fullstack Developer  
-- 🤖 Automation lover  
-- 🌐 Visit my portfolio: [zackblack.vercel.app](https://zackblack.vercel.app)
+- 🤖 Automation lover 
 
 ---
  
@@ -14,7 +13,6 @@
   <a href="https://www.linkedin.com/in/isa%C3%ADas-santos-b8b2181a3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/isaias.sanntoss/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="https://zackblack.vercel.app/" style="background:red" target="_blank">
  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
  </a>
@@ -22,10 +20,9 @@
 
  <div>
   
-  ## 💻 Languages
+  ## 💻 Programming Languages
   <br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px">
@@ -86,6 +83,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" width="70px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-plain.svg" width="70px" />
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-plain.svg" width="70px" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-plain.svg"  width="70px"  />
+          
+          
+          
 
 
 </div>
