@@ -7,16 +7,6 @@
 - 🌐 Visit my portfolio: [zackblack.vercel.app](https://zackblack.vercel.app)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=isaias-silva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-silva&layout=donut&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-</div>
-
----
-
  
  ## 📲Contact
  <br>
@@ -30,7 +20,7 @@
  </a>
 </div>
 
- <div >
+ <div>
   
   ## 💻 Languages
   <br>
