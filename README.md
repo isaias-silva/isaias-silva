@@ -7,7 +7,7 @@
 
 ---
 <div style="display:flex;"> 
- <img src="https://github-stats-extended.vercel.app/api/?username=isaias-silva&show_icons=true&theme=dark" style="height:250px">
+ <img src="https://github-stats-extended.vercel.app/api/?username=isaias-silva&show_icons=true&theme=dark" style="height:200px">
  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaias-silva&stats_format=bytes&theme=dark"  style="height:250px">
 </div>
 
